@@ -1,5 +1,5 @@
 brotlipy==0.7.0
-certifi==2020.12.5
+certifi==2022.12.7
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1613413892199/work
 chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093613037/work
 conda==4.10.1
